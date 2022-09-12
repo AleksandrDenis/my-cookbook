@@ -1,1 +1,1 @@
-web: gunicorn cookbook.wsqi
+web: gunicorn cookbook.wsgi
